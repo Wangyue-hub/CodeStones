@@ -59,11 +59,11 @@ plugins:
 author:
   name   : "王 越"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Welcome"
+  bio    : "邮箱wangyue33998@outlook.com 如果发现有问题的文章，希望能够通过邮箱告知"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://petetwangyue.com"
+      url: "https://peterwangyue.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Wangyue-hub/CodeStones"
@@ -73,9 +73,9 @@ footer:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://petetwangyue.com"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/Wangyue-hub/CodeStones"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-LinkedIn"
+      url: "https://www.linkedin.cn/injobs/in/%E8%B6%8A-%E7%8E%8B-60604a182"
 
 defaults:
   # _posts
